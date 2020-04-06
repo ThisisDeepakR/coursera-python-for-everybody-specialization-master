@@ -25,4 +25,4 @@ Also [here](https://www.py4e.com/html3/) is the link to the HTML version of Char
 
 Professor Charles Severance, University of Michigan.
 
-![Cover](https://github.com/iamdeepakr/coursera-python-for-everybody-specialization/blob/master/cover.jpg)
+![Cover](https://github.com/iamdeepakr/coursera-python-for-everybody-specialization-master/blob/master/cover.jpg)
